@@ -19,6 +19,13 @@
             <version>${jakartaee}</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+    <groupId>jakarta.servlet</groupId>
+    <artifactId>jakarta.servlet-api</artifactId>
+    <version>5.0.0</version> <!-- Use the latest version -->
+    <scope>provided</scope>
+</dependency>
+
     </dependencies>
     
     <build>
