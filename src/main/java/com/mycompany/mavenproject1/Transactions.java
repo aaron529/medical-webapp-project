@@ -13,9 +13,9 @@ import java.sql.*;
 public class Transactions extends HttpServlet {
 
     // Database connection details
-    private static final String DB_URL = "jdbc:mysql://bycjkmy6kckotma9b5zf-mysql.services.clever-cloud.com/bycjkmy6kckotma9b5zf";
-    private static final String DB_USER = "uugep1b32szf7jcb";
-    private static final String DB_PASSWORD = "X9jKx53jVO38mauD5Bus";
+    private static final String DB_URL = "";
+    private static final String DB_USER = "";
+    private static final String DB_PASSWORD = "";
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
